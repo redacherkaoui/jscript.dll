@@ -37,7 +37,7 @@ undefined4 *FUN_633915a0(void *this, …, UINT *lengthPtr, …) {
 }
 ```
 
-### Patched Helper (FUN\_18001e9c0, simplified)
+### Patched Helper (FUN\_18001e9c0)
 
 ```c
 undefined8 FUN_18001e9c0(
